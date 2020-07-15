@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9784aef1.chunk.css",
+    "main.js": "./static/js/main.f8715f1a.chunk.js",
+    "main.js.map": "./static/js/main.f8715f1a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5bf6b89d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5bf6b89d.js.map",
+    "static/js/2.ad17785f.chunk.js": "./static/js/2.ad17785f.chunk.js",
+    "static/js/2.ad17785f.chunk.js.map": "./static/js/2.ad17785f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c867bf23144c519e64c389c98ed96806.js": "./precache-manifest.c867bf23144c519e64c389c98ed96806.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.9784aef1.chunk.css.map": "./static/css/main.9784aef1.chunk.css.map",
+    "static/js/2.ad17785f.chunk.js.LICENSE.txt": "./static/js/2.ad17785f.chunk.js.LICENSE.txt",
+    "static/media/1.svg": "./static/media/1.df09b85f.svg",
+    "static/media/book5.svg": "./static/media/book5.a5ad05f8.svg",
+    "static/media/blk-design-system-react.scss?v=1.1.0": "./static/media/square5.ff004a0e.png",
+    "static/media/game-controller9.svg": "./static/media/game-controller9.234d1704.svg",
+    "static/media/gift.svg": "./static/media/gift.263f2fb9.svg",
+    "static/media/hammer5.svg": "./static/media/hammer5.f5f4cf42.svg",
+    "static/media/nucleo-icons.css": "./static/media/nucleo.f0b489a5.woff",
+    "static/media/popcorn.svg": "./static/media/popcorn.84107fd8.svg",
+    "static/media/rocket.svg": "./static/media/rocket.236835cc.svg",
+    "static/media/square-purple-compressed.png": "./static/media/square-purple-compressed.5edfca39.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf6b89d.js",
+    "static/js/2.ad17785f.chunk.js",
+    "static/css/main.9784aef1.chunk.css",
+    "static/js/main.f8715f1a.chunk.js"
+  ]
+}
